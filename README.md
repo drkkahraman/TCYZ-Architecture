@@ -3,6 +3,8 @@ TCYZ Architecture is a AI model architecture like GGUF. You can use and train .t
 =======
 # TCYZ Format & Inference Engine
 
+https://tcyz.dorukk.dev/
+
 A lightweight, high-performance, GGUF-like binary file format and inference architecture for Transformer-based LLMs. TCYZ allows memory-mapped loading, fast execution, and customizable inference options like streaming, temperature scaling, top-k, and top-p (nucleus) sampling.
 
 ## Key Features
