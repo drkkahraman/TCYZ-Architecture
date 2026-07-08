@@ -102,22 +102,21 @@ def main():
     model = TCYZModel(model_args)
     if tensors is not None:
         model.load_tensors(tensors, device=args.device)
+        model.to(torch.float32)
     else:
         model.init_weights(device=args.device)
         
     model.train()
     
-    # Simple data generator
+    # Simple data generator (non-overlapping blocks for standard and fast language model training)
     def get_batches():
-        num_blocks = (len(tokens) - 1) // args.seq_len
-        indices = torch.randperm(num_blocks * args.seq_len)
+        start_indices = torch.arange(0, len(tokens) - args.seq_len - 1, args.seq_len)
+        indices = start_indices[torch.randperm(len(start_indices))]
         
         x_list = []
         y_list = []
         for idx in indices:
             start = idx.item()
-            if start + args.seq_len + 1 > len(tokens):
-                continue
             x_list.append(tokens[start : start + args.seq_len])
             y_list.append(tokens[start + 1 : start + args.seq_len + 1])
             

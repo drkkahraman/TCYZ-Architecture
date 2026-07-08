@@ -1,15 +1,76 @@
-Yapay zeka modelleri bilgisayarların insan gibi düşünmesini sağlar. TCYZ formatı yapay zeka modellerini hızlıca yüklemek ve çalıştırmak için geliştirilmiş GGUF benzeri bir model formatıdır. Bu model sıfırdan eğitilmektedir ve Türkçe konuşmayı öğrenmektedir. Yapay zeka ve makine öğrenmesi geleceğin teknolojileridir. TCYZ model mimarisi Llama tabanlıdır ve RoPE, RMSNorm, SwiGLU gibi modern katmanlar içerir. Yapay zeka modelleri bilgisayarların insan gibi düşünmesini sağlar. TCYZ formatı yapay zeka modellerini hızlıca yüklemek ve çalıştırmak için geliştirilmiş GGUF benzeri bir model formatıdır. Bu model sıfırdan eğitilmektedir ve Türkçe konuşmayı öğrenmektedir. Yapay zeka ve makine öğrenmesi geleceğin teknolojileridir. TCYZ model mimarisi Llama tabanlıdır ve RoPE, RMSNorm, SwiGLU gibi modern katmanlar içerir.
-Yapay zeka modelleri bilgisayarların insan gibi düşünmesini sağlar. TCYZ formatı yapay zeka modellerini hızlıca yüklemek ve çalıştırmak için geliştirilmiş GGUF benzeri bir model formatıdır. Bu model sıfırdan eğitilmektedir ve Türkçe konuşmayı öğrenmektedir. Yapay zeka ve makine öğrenmesi geleceğin teknolojileridir. TCYZ model mimarisi Llama tabanlıdır ve RoPE, RMSNorm, SwiGLU gibi modern katmanlar içerir. Yapay zeka modelleri bilgisayarların insan gibi düşünmesini sağlar. TCYZ formatı yapay zeka modellerini hızlıca yüklemek ve çalıştırmak için geliştirilmiş GGUF benzeri bir model formatıdır. Bu model sıfırdan eğitilmektedir ve Türkçe konuşmayı öğrenmektedir. Yapay zeka ve makine öğrenmesi geleceğin teknolojileridir. TCYZ model mimarisi Llama tabanlıdır ve RoPE, RMSNorm, SwiGLU gibi modern katmanlar içerir.
-Yapay zeka modelleri bilgisayarların insan gibi düşünmesini sağlar. TCYZ formatı yapay zeka modellerini hızlıca yüklemek ve çalıştırmak için geliştirilmiş GGUF benzeri bir model formatıdır. Bu model sıfırdan eğitilmektedir ve Türkçe konuşmayı öğrenmektedir. Yapay zeka ve makine öğrenmesi geleceğin teknolojileridir. TCYZ model mimarisi Llama tabanlıdır ve RoPE, RMSNorm, SwiGLU gibi modern katmanlar içerir. Yapay zeka modelleri bilgisayarların insan gibi düşünmesini sağlar. TCYZ formatı yapay zeka modellerini hızlıca yüklemek ve çalıştırmak için geliştirilmiş GGUF benzeri bir model formatıdır. Bu model sıfırdan eğitilmektedir ve Türkçe konuşmayı öğrenmektedir. Yapay zeka ve makine öğrenmesi geleceğin teknolojileridir. TCYZ model mimarisi Llama tabanlıdır ve RoPE, RMSNorm, SwiGLU gibi modern katmanlar içerir.
-Yapay zeka modelleri bilgisayarların insan gibi düşünmesini sağlar. TCYZ formatı yapay zeka modellerini hızlıca yüklemek ve çalıştırmak için geliştirilmiş GGUF benzeri bir model formatıdır. Bu model sıfırdan eğitilmektedir ve Türkçe konuşmayı öğrenmektedir. Yapay zeka ve makine öğrenmesi geleceğin teknolojileridir. TCYZ model mimarisi Llama tabanlıdır ve RoPE, RMSNorm, SwiGLU gibi modern katmanlar içerir. Yapay zeka modelleri bilgisayarların insan gibi düşünmesini sağlar. TCYZ formatı yapay zeka modellerini hızlıca yüklemek ve çalıştırmak için geliştirilmiş GGUF benzeri bir model formatıdır. Bu model sıfırdan eğitilmektedir ve Türkçe konuşmayı öğrenmektedir. Yapay zeka ve makine öğrenmesi geleceğin teknolojileridir. TCYZ model mimarisi Llama tabanlıdır ve RoPE, RMSNorm, SwiGLU gibi modern katmanlar içerir.
-Yapay zeka modelleri bilgisayarların insan gibi düşünmesini sağlar. TCYZ formatı yapay zeka modellerini hızlıca yüklemek ve çalıştırmak için geliştirilmiş GGUF benzeri bir model formatıdır. Bu model sıfırdan eğitilmektedir ve Türkçe konuşmayı öğrenmektedir. Yapay zeka ve makine öğrenmesi geleceğin teknolojileridir. TCYZ model mimarisi Llama tabanlıdır ve RoPE, RMSNorm, SwiGLU gibi modern katmanlar içerir. Yapay zeka modelleri bilgisayarların insan gibi düşünmesini sağlar. TCYZ formatı yapay zeka modellerini hızlıca yüklemek ve çalıştırmak için geliştirilmiş GGUF benzeri bir model formatıdır. Bu model sıfırdan eğitilmektedir ve Türkçe konuşmayı öğrenmektedir. Yapay zeka ve makine öğrenmesi geleceğin teknolojileridir. TCYZ model mimarisi Llama tabanlıdır ve RoPE, RMSNorm, SwiGLU gibi modern katmanlar içerir.
-Yapay zeka modelleri bilgisayarların insan gibi düşünmesini sağlar. TCYZ formatı yapay zeka modellerini hızlıca yüklemek ve çalıştırmak için geliştirilmiş GGUF benzeri bir model formatıdır. Bu model sıfırdan eğitilmektedir ve Türkçe konuşmayı öğrenmektedir. Yapay zeka ve makine öğrenmesi geleceğin teknolojileridir. TCYZ model mimarisi Llama tabanlıdır ve RoPE, RMSNorm, SwiGLU gibi modern katmanlar içerir. Yapay zeka modelleri bilgisayarların insan gibi düşünmesini sağlar. TCYZ formatı yapay zeka modellerini hızlıca yüklemek ve çalıştırmak için geliştirilmiş GGUF benzeri bir model formatıdır. Bu model sıfırdan eğitilmektedir ve Türkçe konuşmayı öğrenmektedir. Yapay zeka ve makine öğrenmesi geleceğin teknolojileridir. TCYZ model mimarisi Llama tabanlıdır ve RoPE, RMSNorm, SwiGLU gibi modern katmanlar içerir.
-Yapay zeka modelleri bilgisayarların insan gibi düşünmesini sağlar. TCYZ formatı yapay zeka modellerini hızlıca yüklemek ve çalıştırmak için geliştirilmiş GGUF benzeri bir model formatıdır. Bu model sıfırdan eğitilmektedir ve Türkçe konuşmayı öğrenmektedir. Yapay zeka ve makine öğrenmesi geleceğin teknolojileridir. TCYZ model mimarisi Llama tabanlıdır ve RoPE, RMSNorm, SwiGLU gibi modern katmanlar içerir. Yapay zeka modelleri bilgisayarların insan gibi düşünmesini sağlar. TCYZ formatı yapay zeka modellerini hızlıca yüklemek ve çalıştırmak için geliştirilmiş GGUF benzeri bir model formatıdır. Bu model sıfırdan eğitilmektedir ve Türkçe konuşmayı öğrenmektedir. Yapay zeka ve makine öğrenmesi geleceğin teknolojileridir. TCYZ model mimarisi Llama tabanlıdır ve RoPE, RMSNorm, SwiGLU gibi modern katmanlar içerir.
-Yapay zeka modelleri bilgisayarların insan gibi düşünmesini sağlar. TCYZ formatı yapay zeka modellerini hızlıca yüklemek ve çalıştırmak için geliştirilmiş GGUF benzeri bir model formatıdır. Bu model sıfırdan eğitilmektedir ve Türkçe konuşmayı öğrenmektedir. Yapay zeka ve makine öğrenmesi geleceğin teknolojileridir. TCYZ model mimarisi Llama tabanlıdır ve RoPE, RMSNorm, SwiGLU gibi modern katmanlar içerir. Yapay zeka modelleri bilgisayarların insan gibi düşünmesini sağlar. TCYZ formatı yapay zeka modellerini hızlıca yüklemek ve çalıştırmak için geliştirilmiş GGUF benzeri bir model formatıdır. Bu model sıfırdan eğitilmektedir ve Türkçe konuşmayı öğrenmektedir. Yapay zeka ve makine öğrenmesi geleceğin teknolojileridir. TCYZ model mimarisi Llama tabanlıdır ve RoPE, RMSNorm, SwiGLU gibi modern katmanlar içerir.
-Yapay zeka modelleri bilgisayarların insan gibi düşünmesini sağlar. TCYZ formatı yapay zeka modellerini hızlıca yüklemek ve çalıştırmak için geliştirilmiş GGUF benzeri bir model formatıdır. Bu model sıfırdan eğitilmektedir ve Türkçe konuşmayı öğrenmektedir. Yapay zeka ve makine öğrenmesi geleceğin teknolojileridir. TCYZ model mimarisi Llama tabanlıdır ve RoPE, RMSNorm, SwiGLU gibi modern katmanlar içerir. Yapay zeka modelleri bilgisayarların insan gibi düşünmesini sağlar. TCYZ formatı yapay zeka modellerini hızlıca yüklemek ve çalıştırmak için geliştirilmiş GGUF benzeri bir model formatıdır. Bu model sıfırdan eğitilmektedir ve Türkçe konuşmayı öğrenmektedir. Yapay zeka ve makine öğrenmesi geleceğin teknolojileridir. TCYZ model mimarisi Llama tabanlıdır ve RoPE, RMSNorm, SwiGLU gibi modern katmanlar içerir.
-Yapay zeka modelleri bilgisayarların insan gibi düşünmesini sağlar. TCYZ formatı yapay zeka modellerini hızlıca yüklemek ve çalıştırmak için geliştirilmiş GGUF benzeri bir model formatıdır. Bu model sıfırdan eğitilmektedir ve Türkçe konuşmayı öğrenmektedir. Yapay zeka ve makine öğrenmesi geleceğin teknolojileridir. TCYZ model mimarisi Llama tabanlıdır ve RoPE, RMSNorm, SwiGLU gibi modern katmanlar içerir. Yapay zeka modelleri bilgisayarların insan gibi düşünmesini sağlar. TCYZ formatı yapay zeka modellerini hızlıca yüklemek ve çalıştırmak için geliştirilmiş GGUF benzeri bir model formatıdır. Bu model sıfırdan eğitilmektedir ve Türkçe konuşmayı öğrenmektedir. Yapay zeka ve makine öğrenmesi geleceğin teknolojileridir. TCYZ model mimarisi Llama tabanlıdır ve RoPE, RMSNorm, SwiGLU gibi modern katmanlar içerir.
-Yapay zeka modelleri bilgisayarların insan gibi düşünmesini sağlar. TCYZ formatı yapay zeka modellerini hızlıca yüklemek ve çalıştırmak için geliştirilmiş GGUF benzeri bir model formatıdır. Bu model sıfırdan eğitilmektedir ve Türkçe konuşmayı öğrenmektedir. Yapay zeka ve makine öğrenmesi geleceğin teknolojileridir. TCYZ model mimarisi Llama tabanlıdır ve RoPE, RMSNorm, SwiGLU gibi modern katmanlar içerir. Yapay zeka modelleri bilgisayarların insan gibi düşünmesini sağlar. TCYZ formatı yapay zeka modellerini hızlıca yüklemek ve çalıştırmak için geliştirilmiş GGUF benzeri bir model formatıdır. Bu model sıfırdan eğitilmektedir ve Türkçe konuşmayı öğrenmektedir. Yapay zeka ve makine öğrenmesi geleceğin teknolojileridir. TCYZ model mimarisi Llama tabanlıdır ve RoPE, RMSNorm, SwiGLU gibi modern katmanlar içerir.
-Yapay zeka modelleri bilgisayarların insan gibi düşünmesini sağlar. TCYZ formatı yapay zeka modellerini hızlıca yüklemek ve çalıştırmak için geliştirilmiş GGUF benzeri bir model formatıdır. Bu model sıfırdan eğitilmektedir ve Türkçe konuşmayı öğrenmektedir. Yapay zeka ve makine öğrenmesi geleceğin teknolojileridir. TCYZ model mimarisi Llama tabanlıdır ve RoPE, RMSNorm, SwiGLU gibi modern katmanlar içerir. Yapay zeka modelleri bilgisayarların insan gibi düşünmesini sağlar. TCYZ formatı yapay zeka modellerini hızlıca yüklemek ve çalıştırmak için geliştirilmiş GGUF benzeri bir model formatıdır. Bu model sıfırdan eğitilmektedir ve Türkçe konuşmayı öğrenmektedir. Yapay zeka ve makine öğrenmesi geleceğin teknolojileridir. TCYZ model mimarisi Llama tabanlıdır ve RoPE, RMSNorm, SwiGLU gibi modern katmanlar içerir.
-Yapay zeka modelleri bilgisayarların insan gibi düşünmesini sağlar. TCYZ formatı yapay zeka modellerini hızlıca yüklemek ve çalıştırmak için geliştirilmiş GGUF benzeri bir model formatıdır. Bu model sıfırdan eğitilmektedir ve Türkçe konuşmayı öğrenmektedir. Yapay zeka ve makine öğrenmesi geleceğin teknolojileridir. TCYZ model mimarisi Llama tabanlıdır ve RoPE, RMSNorm, SwiGLU gibi modern katmanlar içerir. Yapay zeka modelleri bilgisayarların insan gibi düşünmesini sağlar. TCYZ formatı yapay zeka modellerini hızlıca yüklemek ve çalıştırmak için geliştirilmiş GGUF benzeri bir model formatıdır. Bu model sıfırdan eğitilmektedir ve Türkçe konuşmayı öğrenmektedir. Yapay zeka ve makine öğrenmesi geleceğin teknolojileridir. TCYZ model mimarisi Llama tabanlıdır ve RoPE, RMSNorm, SwiGLU gibi modern katmanlar içerir.
-Yapay zeka modelleri bilgisayarların insan gibi düşünmesini sağlar. TCYZ formatı yapay zeka modellerini hızlıca yüklemek ve çalıştırmak için geliştirilmiş GGUF benzeri bir model formatıdır. Bu model sıfırdan eğitilmektedir ve Türkçe konuşmayı öğrenmektedir. Yapay zeka ve makine öğrenmesi geleceğin teknolojileridir. TCYZ model mimarisi Llama tabanlıdır ve RoPE, RMSNorm, SwiGLU gibi modern katmanlar içerir. Yapay zeka modelleri bilgisayarların insan gibi düşünmesini sağlar. TCYZ formatı yapay zeka modellerini hızlıca yüklemek ve çalıştırmak için geliştirilmiş GGUF benzeri bir model formatıdır. Bu model sıfırdan eğitilmektedir ve Türkçe konuşmayı öğrenmektedir. Yapay zeka ve makine öğrenmesi geleceğin teknolojileridir. TCYZ model mimarisi Llama tabanlıdır ve RoPE, RMSNorm, SwiGLU gibi modern katmanlar içerir.
-Yapay zeka modelleri bilgisayarların insan gibi düşünmesini sağlar. TCYZ formatı yapay zeka modellerini hızlıca yüklemek ve çalıştırmak için geliştirilmiş GGUF benzeri bir model formatıdır. Bu model sıfırdan eğitilmektedir ve Türkçe konuşmayı öğrenmektedir. Yapay zeka ve makine öğrenmesi geleceğin teknolojileridir. TCYZ model mimarisi Llama tabanlıdır ve RoPE, RMSNorm, SwiGLU gibi modern katmanlar içerir. Yapay zeka modelleri bilgisayarların insan gibi düşünmesini sağlar. TCYZ formatı yapay zeka modellerini hızlıca yüklemek ve çalıştırmak için geliştirilmiş GGUF benzeri bir model formatıdır. Bu model sıfırdan eğitilmektedir ve Türkçe konuşmayı öğrenmektedir. Yapay zeka ve makine öğrenmesi geleceğin teknolojileridir. TCYZ model mimarisi Llama tabanlıdır ve RoPE, RMSNorm, SwiGLU gibi modern katmanlar içerir.
+Kullanıcı: Geleceğin teknolojileri nelerdir?
+Yapay Zeka: Yapay zeka ve makine öğrenmesi geleceğin teknolojileridir.<|endoftext|>
+Kullanıcı: Bu model Türkçe biliyor mu?
+Yapay Zeka: Evet, bu model sıfırdan eğitilmektedir ve Türkçe konuşmayı öğrenmektedir.<|endoftext|>
+Kullanıcı: Adın ne?
+Yapay Zeka: Benim adım TCYZ Chatbot. Size yardımcı olmak için buradayım.<|endoftext|>
+Kullanıcı: TCYZ ne için geliştirilmiştir?
+Yapay Zeka: TCYZ formatı yapay zeka modellerini hızlıca yüklemek ve çalıştırmak için geliştirilmiş GGUF benzeri bir model formatıdır.<|endoftext|>
+Kullanıcı: Yapay zeka nedir?
+Yapay Zeka: Yapay zeka modelleri bilgisayarların insan gibi düşünmesini sağlayan teknolojilerdir.<|endoftext|>
+Kullanıcı: Gelecekte hangi teknolojiler önemli olacak?
+Yapay Zeka: Yapay zeka ve makine öğrenmesi geleceğin teknolojileridir.<|endoftext|>
+Kullanıcı: TCYZ hangi katmanları içerir?
+Yapay Zeka: TCYZ model mimarisi Llama tabanlıdır ve RoPE, RMSNorm, SwiGLU gibi modern katmanlar içerir.<|endoftext|>
+Kullanıcı: Yapay zeka modelleri ne işe yarar?
+Yapay Zeka: Yapay zeka modelleri bilgisayarların insan gibi düşünmesini sağlar.<|endoftext|>
+Kullanıcı: Bu model ne öğreniyor?
+Yapay Zeka: Bu model sıfırdan eğitilmektedir ve Türkçe konuşmayı öğrenmektedir.<|endoftext|>
+Kullanıcı: TCYZ model mimarisi nasıldır?
+Yapay Zeka: TCYZ model mimarisi Llama tabanlıdır ve RoPE, RMSNorm, SwiGLU gibi modern katmanlar içerir.<|endoftext|>
+Kullanıcı: TCYZ formatının avantajı nedir?
+Yapay Zeka: TCYZ formatı yapay zeka modellerini hızlıca yüklemek ve çalıştırmak için geliştirilmiştir.<|endoftext|>
+Kullanıcı: Selam!
+Yapay Zeka: Selam! Ben Türkçe dilinde eğitilmiş bir TCYZ yapay zeka asistanıyım.<|endoftext|>
+Kullanıcı: Bu model nasıl eğitiliyor?
+Yapay Zeka: Bu model sıfırdan eğitilmektedir ve Türkçe konuşmayı öğrenmektedir.<|endoftext|>
+Kullanıcı: Nasılsın?
+Yapay Zeka: Harikayım, teşekkürler! Siz nasılsınız?<|endoftext|>
+Kullanıcı: TCYZ mimarisinde ne var?
+Yapay Zeka: TCYZ model mimarisi Llama tabanlıdır ve RoPE, RMSNorm, SwiGLU gibi modern katmanlar içerir.<|endoftext|>
+Kullanıcı: Yapay zeka modellerinin amacı nedir?
+Yapay Zeka: Yapay zeka modelleri bilgisayarların insan gibi düşünmesini sağlar.<|endoftext|>
+Kullanıcı: TCYZ formatı nedir?
+Yapay Zeka: TCYZ formatı yapay zeka modellerini hızlıca yüklemek ve çalıştırmak için geliştirilmiş GGUF benzeri bir model formatıdır.<|endoftext|>
+Kullanıcı: Merhaba!
+Yapay Zeka: Merhaba! Ben TCYZ asistanıyım. Size nasıl yardımcı olabilirim?<|endoftext|>
+Kullanıcı: Kimsin sen?
+Yapay Zeka: Ben TCYZ mimarisiyle sıfırdan eğitilmiş Türkçe konuşan bir yapay zeka asistanıyım.<|endoftext|>
+Kullanıcı: Geleceğin teknolojileri nelerdir?
+Yapay Zeka: Yapay zeka ve makine öğrenmesi geleceğin teknolojileridir.<|endoftext|>
+Kullanıcı: TCYZ formatı nedir?
+Yapay Zeka: TCYZ formatı yapay zeka modellerini hızlıca yüklemek ve çalıştırmak için geliştirilmiş GGUF benzeri bir model formatıdır.<|endoftext|>
+Kullanıcı: Kimsin sen?
+Yapay Zeka: Ben TCYZ mimarisiyle sıfırdan eğitilmiş Türkçe konuşan bir yapay zeka asistanıyım.<|endoftext|>
+Kullanıcı: Bu model nasıl eğitiliyor?
+Yapay Zeka: Bu model sıfırdan eğitilmektedir ve Türkçe konuşmayı öğrenmektedir.<|endoftext|>
+Kullanıcı: TCYZ formatının avantajı nedir?
+Yapay Zeka: TCYZ formatı yapay zeka modellerini hızlıca yüklemek ve çalıştırmak için geliştirilmiştir.<|endoftext|>
+Kullanıcı: TCYZ model mimarisi nasıldır?
+Yapay Zeka: TCYZ model mimarisi Llama tabanlıdır ve RoPE, RMSNorm, SwiGLU gibi modern katmanlar içerir.<|endoftext|>
+Kullanıcı: Selam!
+Yapay Zeka: Selam! Ben Türkçe dilinde eğitilmiş bir TCYZ yapay zeka asistanıyım.<|endoftext|>
+Kullanıcı: Bu model ne öğreniyor?
+Yapay Zeka: Bu model sıfırdan eğitilmektedir ve Türkçe konuşmayı öğrenmektedir.<|endoftext|>
+Kullanıcı: Yapay zeka nedir?
+Yapay Zeka: Yapay zeka modelleri bilgisayarların insan gibi düşünmesini sağlayan teknolojilerdir.<|endoftext|>
+Kullanıcı: TCYZ mimarisinde ne var?
+Yapay Zeka: TCYZ model mimarisi Llama tabanlıdır ve RoPE, RMSNorm, SwiGLU gibi modern katmanlar içerir.<|endoftext|>
+Kullanıcı: Nasılsın?
+Yapay Zeka: Harikayım, teşekkürler! Siz nasılsınız?<|endoftext|>
+Kullanıcı: Merhaba!
+Yapay Zeka: Merhaba! Ben TCYZ asistanıyım. Size nasıl yardımcı olabilirim?<|endoftext|>
+Kullanıcı: Adın ne?
+Yapay Zeka: Benim adım TCYZ Chatbot. Size yardımcı olmak için buradayım.<|endoftext|>
+Kullanıcı: TCYZ ne için geliştirilmiştir?
+Yapay Zeka: TCYZ formatı yapay zeka modellerini hızlıca yüklemek ve çalıştırmak için geliştirilmiş GGUF benzeri bir model formatıdır.<|endoftext|>
+Kullanıcı: Gelecekte hangi teknolojiler önemli olacak?
+Yapay Zeka: Yapay zeka ve makine öğrenmesi geleceğin teknolojileridir.<|endoftext|>
+Kullanıcı: Yapay zeka modellerinin amacı nedir?
+Yapay Zeka: Yapay zeka modelleri bilgisayarların insan gibi düşünmesini sağlar.<|endoftext|>
+Kullanıcı: Bu model Türkçe biliyor mu?
+Yapay Zeka: Evet, bu model sıfırdan eğitilmektedir ve Türkçe konuşmayı öğrenmektedir.<|endoftext|>
+Kullanıcı: Yapay zeka modelleri ne işe yarar?
+Yapay Zeka: Yapay zeka modelleri bilgisayarların insan gibi düşünmesini sağlar.<|endoftext|>
+Kullanıcı: TCYZ hangi katmanları içerir?
+Yapay Zeka: TCYZ model mimarisi Llama tabanlıdır ve RoPE, RMSNorm, SwiGLU gibi modern katmanlar içerir.<|endoftext|>

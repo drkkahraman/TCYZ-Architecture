@@ -12,6 +12,7 @@ def main():
     parser.add_argument("--top-k", type=int, default=40, help="Top-k sampling")
     parser.add_argument("--top-p", type=float, default=0.9, help="Top-p sampling")
     parser.add_argument("--device", type=str, default="cuda" if torch.cuda.is_available() else "cpu", help="Device to run on (cpu, cuda)")
+    parser.add_argument("--chat", action="store_true", help="Format the input as chatbot conversation (Kullanıcı: / Yapay Zeka:)")
     
     args = parser.parse_args()
     
@@ -22,13 +23,14 @@ def main():
         sys.exit(1)
         
     if args.prompt:
-        print(f"\n--- Prompt ---\n{args.prompt}\n\n--- Output ---")
+        prompt = f"Kullanıcı: {args.prompt}\nYapay Zeka:" if args.chat else args.prompt
+        print(f"\n--- Prompt ---\n{prompt}\n\n--- Output ---")
         
         def stream_cb(token):
             print(token, end="", flush=True)
             
         runner.generate(
-            args.prompt,
+            prompt,
             max_new_tokens=args.max_tokens,
             temperature=args.temp,
             top_k=args.top_k,
@@ -48,11 +50,13 @@ def main():
                 
                 print("AI > ", end="", flush=True)
                 
+                prompt = f"Kullanıcı: {user_input}\nYapay Zeka:" if args.chat else user_input
+                
                 def stream_cb(token):
                     print(token, end="", flush=True)
                     
                 runner.generate(
-                    user_input,
+                    prompt,
                     max_new_tokens=args.max_tokens,
                     temperature=args.temp,
                     top_k=args.top_k,

@@ -1,7 +1,4 @@
-# TCYZ Architecture
-TCYZ Architecture is a AI model architecture like GGUF. You can use and train .tcyz models easily.
-=======
-# TCYZ Format & Inference Engine
+# TCYZ Format & Inference Engine 1.0.1-alpha
 
 https://tcyz.dorukk.dev/
 
@@ -121,4 +118,3 @@ python run_inference.py --model trained_model.tcyz
 - `--top-p`: Nucleus sampling threshold (default: `0.9`)
 - `--device`: Execution device (`cpu` or `cuda`)
 - `--max-tokens`: Max new tokens generated per turn (default: `128`)
->>>>>>> de991c0 (Initial commit of TCYZ format and model architecture)

@@ -171,7 +171,7 @@ class TCYZModel(nn.Module):
                 if required:
                     raise KeyError(f"Weight {name} not found in model file")
                 return None
-            return nn.Parameter(tensors[name].to(device))
+            return nn.Parameter(tensors[name].to(device).clone())
 
         self.tok_embeddings = load_param("tok_embeddings.weight")
         self.norm.weight = load_param("norm.weight")

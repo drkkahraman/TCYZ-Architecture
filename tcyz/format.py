@@ -100,8 +100,13 @@ def write_tcyz(file_path, metadata, tensors, alignment=64):
             if t.device.type != 'cpu':
                 t = t.cpu()
             
-            storage = t.untyped_storage()
-            f.write(bytes(storage))
+            if t.dtype == torch.bfloat16:
+                # numpy does not support bfloat16 directly, so view as int16
+                data = t.view(torch.int16).numpy().tobytes()
+            else:
+                data = t.numpy().tobytes()
+            
+            f.write(data)
             
             pad = info['padded_size'] - info['size_bytes']
             if pad > 0:
